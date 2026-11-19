@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="360" viewBox="0 0 1120 360" role="img" aria-labelledby="title desc">
+  <title id="title">NounouRepère</title>
+  <desc id="desc">Logo avec une maison, un calendrier et un cœur, en vert sauge et corail.</desc>
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F5FAF5"/>
+      <stop offset="1" stop-color="#EAF3EB"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="324" height="324" rx="82" fill="url(#tile)"/>
+  <path d="M80 160 180 79l100 81" fill="none" stroke="#537B68" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M102 151v123h156V151" fill="#FFFFFF" stroke="#537B68" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M102 174h156" stroke="#537B68" stroke-width="13"/>
+  <path d="M143 139v26M217 139v26" stroke="#537B68" stroke-width="14" stroke-linecap="round"/>
+  <path d="M180 237c-8-8-30-23-30-41 0-13 9-22 21-22 8 0 14 4 19 11 5-7 11-11 19-11 12 0 21 9 21 22 0 18-22 33-30 41l-10 9z" fill="#E88772"/>
+  <circle cx="278" cy="266" r="24" fill="#E8B95F"/>
+  <path d="m267 266 8 8 15-17" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="390" y="210" fill="#294A3A" font-family="Aptos, 'Segoe UI', sans-serif" font-size="91" font-weight="700" letter-spacing="-3">Nounou<tspan fill="#668A70">Repère</tspan></text>
+  <path d="M397 246h552" stroke="#E4ECE5" stroke-width="5" stroke-linecap="round"/>
+  <text x="397" y="290" fill="#738477" font-family="Aptos, 'Segoe UI', sans-serif" font-size="27" font-weight="500" letter-spacing="2.1">LES PETITS REPÈRES DU QUOTIDIEN</text>
+</svg>
